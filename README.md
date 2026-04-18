@@ -172,6 +172,7 @@ Tools that are not tied to a particular platform or language.
 - [Kepler.gl](https://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
 - [Mermaid](https://github.com/knsv/mermaid) - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
 - [RAW](https://rawgraphs.io) - Create web visualizations from CSV or Excel files.
+- [AI for Database](https://aifordatabase.com) - Connect to any database and build self-refreshing data dashboards using natural language. No SQL required.
 - [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 - [Visual-Insights](https://github.com/ObservedObserver/visual-insights) - Automatic insights extraction and visualization specification in data analysis.
 - [X6](https://x6.antv.vision/en) - diagram creation library for rapid construction of DAG diagrams, ER diagrams, flowcharts and other applications, maintained by Alibaba
